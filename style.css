@@ -1,0 +1,27 @@
+*{
+margin: 0;
+padding: 0;
+outline: 0;
+font-family: 'Open Sans', sans-serif;
+
+
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input{
+	width: 100%;
+	padding: 20px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+    box-sizing : border-box;
+}
+form{
+    width: 500px;
+	background: aquamarine;
+	margin: 50px auto;
+	padding: 10px 10px;
+    
+}
